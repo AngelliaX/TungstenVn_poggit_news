@@ -2,7 +2,8 @@ forcelobbytext: false
 
 gomoku_version: 0.7.0
 gomoku_text: [
-  "The gameplay is more fun in MC win10"
+  "The gameplay is more fun in MC win10",
+  "Welcome to the Gomoku 0.7.0"
 ]
 clothes_version: 3.1.0
 clothes_text: [
